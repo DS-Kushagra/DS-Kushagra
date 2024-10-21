@@ -37,6 +37,6 @@
 <br><br>
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 
-### Made with 💜 by [Kushagra](www.linkedin.com/in/kushagra--agrawal)
+### Made with 💜 by [Kushagra](https://ds-kushagra.vercel.app/) <- Portfolio
 ---
 [![](https://visitcount.itsvg.in/api?id=DS-Kushagra&icon=5&color=0)](https://visitcount.itsvg.in)
