@@ -5,9 +5,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
-#  About Me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="45">&nbsp; 
-<br><br>
-🔭 I’m currently working on my skills to make them better.<br>👯 I’m currently looking to connect with seniors.<br>🤝 I’m looking for help with Data Structures and Algorithms.<br>🌱 I’m presently learning Machine Learning.<br>💬 Let's Connect if we can help each other to fulfill our dreams.<br>⚡ Interesting fact:- With over 300 million repositories, GitHub houses more code than you could ever read in a lifetime.             
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="45">&nbsp; 
+
+## About Me  
+
+🌟 **Hi, I'm Kushagra!**  
+I'm passionate about technology, coding, and continuous learning. Here's what I'm up to:
+
+- 🌱 Currently mastering **Machine Learning**.
+- 🔭 Improving my **logic building skills**.
+- 👯 Excited to collaborate with experienced developers and mentors.
+- 🤝 Open to connections and knowledge sharing.
+- ⚡ Fun Fact: GitHub hosts over **300 million repositories**, more code than anyone could read in a lifetime!        
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -40,5 +49,3 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
 
 ### Made with 💜 by [Kushagra](https://ds-kushagra.vercel.app/) <- Portfolio
----
-[![](https://visitcount.itsvg.in/api?id=DS-Kushagra&icon=5&color=0)](https://visitcount.itsvg.in)
