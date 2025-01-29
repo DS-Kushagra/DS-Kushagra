@@ -5,9 +5,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="45">&nbsp; 
 
-## About Me  
+## About Me  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="45">&nbsp; 
 
 🌟 **Hi, I'm Kushagra!**  
 I'm passionate about technology, coding, and continuous learning. Here's what I'm up to:
