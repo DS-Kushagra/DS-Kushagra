@@ -1,4 +1,4 @@
-# <div align="center"> WELCOME Coders </div>
+# <div align="center"> WELCOME CODERS </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Kushagra;Welcome+to+My+Digital+Universe" alt="Typing SVG" />
@@ -147,7 +147,7 @@ graph TD
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=DS-Kushagra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DS-Kushagra)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
