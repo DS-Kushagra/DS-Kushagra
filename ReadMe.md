@@ -40,7 +40,7 @@ Mission: "Transforming imagination into digital reality"
 <details>
 <summary><b>🧬 Core Technologies<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="25">&nbsp; </b></summary>
 
-### Programming Languages
+### Programming Languages & Frameworks
 ```
 Python  ████████████████████████████████████████ 95%
 C       ████████████████████████████████████████ 90%
