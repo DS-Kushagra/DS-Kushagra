@@ -22,7 +22,7 @@
 
 ```yaml
 Name: Kushagra Agrawal
-Role: Budding AI Engineer & Visionary
+Role: AI Engineer & Visionary
 Focus: Computer Vision | Machine Learning | Future Tech
 Mission: "Transforming imagination into digital reality"
 ```
